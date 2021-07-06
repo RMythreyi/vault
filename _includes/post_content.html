@@ -1,0 +1,4 @@
+<!-- Original post: <a href="{{include.url}}.html"> {{include.title}} </a> -->
+
+{% assign mypage = site.pages | where: "mykey",{{include.key}} %}
+{{mypage}}

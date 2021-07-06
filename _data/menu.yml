@@ -1,0 +1,19 @@
+entries:
+  - title: Language
+    entries:
+      - title: Python
+        url: python/python
+        entries:
+          - title: Basics
+            url: python/basics
+          - title: NumPy
+            url: python/numpy
+          - title: matplotlib
+            url: python/matplotlib
+      - title: $\LaTeX$
+        url: latex/latex
+        entries:
+          - title: Basics
+            url: latex/basics
+          - title: BibTeX
+            url: latex/bibtex
